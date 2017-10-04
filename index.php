@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
 
 $obj = new main();
@@ -134,3 +136,5 @@ class mytags
     
 }
 ?>
+</boby>
+</html>
