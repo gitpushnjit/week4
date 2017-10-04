@@ -1,5 +1,4 @@
-<html>
-<body>
+
 
 <?php
 
@@ -133,5 +132,4 @@ class mytags
     }
     
 }
-</body>
-</html>
+?>
