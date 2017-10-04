@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php
-
+echo 'hello world';
 $obj = new main();
 
 class main
