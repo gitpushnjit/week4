@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body>
 <?php
@@ -136,5 +137,5 @@ class mytags
     
 }
 ?>
-</boby>
+</body>
 </html>
